@@ -2,12 +2,24 @@
 
 > 이 repo는 기술 면접을 대비하기 위한 repo이다.
 
-##### [type](https://github.com/leehosu/Interview-front/blob/master/Interview/type.md)
+## JavaScript
 
-##### [변수](https://github.com/leehosu/Interview-front/blob/master/Interview/variable.md)
+##### [type](https://github.com/leehosu/Interview-front/blob/master/Interview/js/type.md)
 
-##### [scope](https://github.com/leehosu/Interview-front/blob/master/Interview/scope.md)
+##### [변수](https://github.com/leehosu/Interview-front/blob/master/Interview/js/variable.md)
 
-##### [hoisting](https://github.com/leehosu/Interview-front/blob/master/Interview/hoisting.md)
+##### [scope](https://github.com/leehosu/Interview-front/blob/master/Interview/js/scope.md)
 
-##### [closure](https://github.com/leehosu/Interview-front/blob/master/Interview/closure.md)
+##### [hoisting](https://github.com/leehosu/Interview-front/blob/master/Interview/js/hoisting.md)
+
+##### [closure](https://github.com/leehosu/Interview-front/blob/master/Interview/js/closure.md)
+
+##### [OOP](https://github.com/leehosu/Interview-front/blob/master/Interview/js/oop.md)
+
+##### [Event Delegation](https://github.com/leehosu/Interview-front/blob/master/Interview/js/eventDelegation.md)
+
+---
+
+## React
+
+##### [lifecycle](https://github.com/leehosu/Interview-front/blob/master/Interview/react/lifeCycle.md)
