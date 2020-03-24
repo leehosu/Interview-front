@@ -20,6 +20,12 @@
 
 ##### [function](https://github.com/leehosu/Interview-front/blob/master/Interview/js/function.md)
 
+##### [symbol](https://github.com/leehosu/Interview-front/blob/master/Interview/js/symbol.md)
+
+##### [method and this](https://github.com/leehosu/Interview-front/blob/master/Interview/js/method_this.md)
+
+##### [new](https://github.com/leehosu/Interview-front/blob/master/Interview/js/new.md)
+
 ---
 
 ## Webpack
