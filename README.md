@@ -26,6 +26,8 @@
 
 ##### [new](https://github.com/leehosu/Interview-front/blob/master/Interview/js/new.md)
 
+##### [array](https://github.com/leehosu/Interview-front/blob/master/Interview/js/array.md)
+
 ---
 
 ## Webpack
